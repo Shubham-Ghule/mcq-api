@@ -1,0 +1,6 @@
+@McqAPIs_HostAddress = http://localhost:5234
+
+GET {{McqAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
